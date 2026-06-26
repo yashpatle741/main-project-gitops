@@ -22,7 +22,7 @@ spec:
     spec:
       containers:
         - name: backend
-          image: yashpatle99/skillpulse-backend:latest
+          image: yashpatle99/skillpulse-backend:23
           imagePullPolicy: Always
           ports:
             - name: http
